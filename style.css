@@ -8,6 +8,10 @@ body {
   margin: 0;
 }
 
+h1 {
+  color: white;
+}
+
 img {
   display: block;
   width: 100%;
