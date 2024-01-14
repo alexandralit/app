@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Fucking app",
+  "name": "App",
   "short_name": "Fucking app",
   "start_url": "/pwa-examples/a2hs/index.html"
 }
