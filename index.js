@@ -36,7 +36,7 @@ json.forEach((item) => {
 document.addEventListener('click', (event) => {
   if (event.target.closest('[data-case]')) {
     const id = event.target.closest('[data-case]').dataset.case;
-    const content = json.filter((item) => tem.case_id === id);
+    const content = json.filter((item) => item.case_id === id);
 
     document.body.appendChild(content[0].case_notes);
   }
