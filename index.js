@@ -33,6 +33,14 @@ json.forEach((item) => {
   document.body.appendChild(button);
 });
 
+document.addEventListener('click', (event) => {
+  if (event.target.closest('[data-case]')) {
+    const id = event.target.closest('[data-case]').dataset.case;
+    const content = json.filter((item) => tem.case_id === id);
+
+    document.body.appendChild(content[0].case_notes);
+  }
+});
 
 // Register service worker to control making site work offline
 
