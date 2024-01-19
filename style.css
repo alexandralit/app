@@ -25,6 +25,7 @@ img {
   color: #fff;
   width: fit-content;
   cursor: pointer;
+  margin-bottom: 10px;
 }
 
 .add-button {
