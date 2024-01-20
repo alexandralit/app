@@ -5,6 +5,6 @@ TODO:
 4. routing (open case text on button click)
 5. return to case list button
 6. text formatting
-
-1. get cases list endpoint
-2. encrypt api credentials
+7. get cases list endpoint
+8. encrypt api credentials
+9. export to android
