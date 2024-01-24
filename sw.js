@@ -5,7 +5,6 @@ self.addEventListener('install', (e) => {
       '/apps/index.html',
       '/apps/index.js',
       '/apps/style.css',
-      '/apps/images/',
     ])),
   );
 });
