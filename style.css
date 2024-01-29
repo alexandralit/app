@@ -29,7 +29,8 @@ img {
 
 
 .button {
-  max-width: 280px;
+  width: 100%;
+  max-width: 240px;
   margin: 0 auto;
   white-space: nowrap;
   overflow: hidden;
