@@ -1,11 +1,19 @@
 html {
   height: 100%;
-  background: #333;
+  background: #1d1e22;
 }
 
 body {
   height: inherit;
   margin: 0;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px 16px;
 }
 
 h1 {
@@ -19,13 +27,22 @@ img {
 
 
 .button {
-  padding: 10px;
-  background-color: #0d8ccf;
+  max-width: 280px;
+  margin: 0 auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  text-decoration: none !important;
+  text-align: center;
+  padding: 10px 20px;
+  background-color: #DA382B;
   border-radius: 4px;
   color: #fff;
   width: fit-content;
   cursor: pointer;
-  margin-bottom: 10px;
 }
 
 .add-button {
