@@ -6,7 +6,7 @@ Frontend:
 4. routing (open case text on button click)
 5. return to case list button
 6. text formatting
-7. open app from truck1 bot
+**7. open app from truck1 bot**
 
 Backend:
 1. get cases list endpoint
