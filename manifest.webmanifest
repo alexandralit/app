@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "App",
-  "short_name": "App",
+  "name": "Cases",
+  "short_name": "Cases",
   "start_url": "/apps/index.html"
 }
