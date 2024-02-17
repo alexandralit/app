@@ -2,7 +2,7 @@
 1. app icon ✔
 2. app name ✔
 3. window scale ✔
-4. **open app from truck1 bot**
+4. **open case by case_id from link in telegram**
 5. routing (open case text on button click)
 6. cache api password
 7. return to case list button
