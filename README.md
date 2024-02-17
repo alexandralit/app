@@ -12,4 +12,7 @@ Frontend:
 Backend:
 1. cases list endpoint ✔
 2. case chat text endpoint ✔
-3. export to android
+3. check on android ✔
+4. private repository
+5. different users
+6. database
