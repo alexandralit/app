@@ -1,4 +1,3 @@
-**TODO:**
 **Frontend:**
 1. app icon ✔
 2. app name ✔
