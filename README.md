@@ -3,7 +3,7 @@
 2. app name ✔
 3. window scale ✔
 4. **open case by case_id from link in telegram**
-5. routing (open case chat on button click)
+5. routing (open case chat on case button click)
 6. cache api password
 7. return to case list button
 8. text formatting
