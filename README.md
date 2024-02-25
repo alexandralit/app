@@ -15,3 +15,6 @@
 4. private repository
 5. different users
 6. database
+
+**Notes**
+1. Store password in case link
