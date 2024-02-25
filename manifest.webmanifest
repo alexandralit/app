@@ -14,9 +14,9 @@
   "start_url": "/apps/index.html",
   "url_handlers": [
     {
-      "origin": "https://alexandralit.github.io",
-      "paths": ["/apps/*"],
-      "exclude_paths": ["/apps/excluded-path"]
+      "origin": "https://truck1.eu",
+      "paths": ["/*"],
+      "exclude_paths": ["/excluded-path"]
     }
   ]
 }
