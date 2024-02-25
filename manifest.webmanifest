@@ -14,7 +14,7 @@
   "start_url": "/apps/index.html",
   "url_handlers" : [
     {
-        "origin": "https://truck1.eu"
+        "origin": "http://37.17.226.17"
     }
   ]
 }
