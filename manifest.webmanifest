@@ -11,5 +11,10 @@
   ],
   "name": "Cases",
   "short_name": "Cases",
-  "start_url": "/apps/index.html"
+  "start_url": "/apps/index.html",
+  "url_handlers": [
+      {
+        // "origin": "https://www.truck1.eu/_ADMIN_/WIDGETS/T1Admin.html?mode=cases&case_id=*"
+      },
+    ]
 }
