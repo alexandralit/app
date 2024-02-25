@@ -14,7 +14,7 @@
   "start_url": "/apps/index.html",
   "url_handlers": [
       {
-        "origin": "https://alexandralit.github.io"
+        "origin": "https://github.com/alexandralit/apps"
       }
   ]
 }
