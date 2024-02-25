@@ -11,12 +11,5 @@
   ],
   "name": "Cases",
   "short_name": "Cases",
-  "start_url": "/apps/index.html",
-  "url_handlers": [
-    {
-      "origin": "https://truck1.eu",
-      "paths": ["/*"],
-      "exclude_paths": ["/excluded-path"]
-    }
-  ]
+  "start_url": "/apps/index.html"
 }
