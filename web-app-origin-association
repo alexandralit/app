@@ -1,0 +1,11 @@
+{
+  "web_apps": [
+    {
+      "manifest": "https://github.com/alexandralit/apps/blob/main/manifest.webmanifest",
+      "details": {
+        "paths": ["/*"],
+        "exclude_paths": ["/internal/*"]
+      }
+    }
+  ]
+}
