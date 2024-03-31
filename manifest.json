@@ -5,10 +5,6 @@
             "details": {
                 "paths": [
                     "/*"
-                ],
-                "exclude_paths": [
-                    "/blog",
-                    "/about"
                 ]
             }
         },
