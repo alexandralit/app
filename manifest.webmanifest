@@ -22,5 +22,17 @@
     {
         "origin": "http://37.17.226.17"
     }
-  ]
+  ],
+  {
+    "web_apps": [
+      {
+        "manifest": "https://happy-birthday-b85a1c.netlify.app/manifest.json",
+        "details": {
+          "paths": ["/*"],
+          "exclude_paths": ["/*"]
+        }
+      }
+    ]
+  }
+
 }
