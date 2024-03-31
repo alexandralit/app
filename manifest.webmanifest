@@ -14,6 +14,9 @@
   "start_url": "/apps/index.html",
   "url_handlers" : [
     {
+        "origin": "https://happy-birthday-b85a1c.netlify.app/"
+    },
+    {
         "origin": "https://alexandralit.github.io/apps/"
     },
     {
