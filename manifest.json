@@ -9,7 +9,7 @@
             }
         },
         {
-            "manifest": "https://alexandralit.github.io/apps/",
+            "manifest": "https://alexandralit.github.io/apps/manifest.json"",
             "details": {
                 "paths": [
                     "/*"
