@@ -1,0 +1,24 @@
+{
+    "web_apps": [
+        {
+            "manifest": "https://happy-birthday-b85a1c.netlify.app/asset-manifest.json",
+            "details": {
+                "paths": [
+                    "/*"
+                ],
+                "exclude_paths": [
+                    "/blog",
+                    "/about"
+                ]
+            }
+        },
+        {
+            "manifest": "https://alexandralit.github.io/apps/",
+            "details": {
+                "paths": [
+                    "/*"
+                ]
+            }
+        }
+    ]
+}
