@@ -58,7 +58,7 @@ if ("launchQueue" in window && "targetURL" in window.LaunchParams.prototype) {
 
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker
-    .register('/sw.js')
+    .register('/apps/sw.js')
     .then(() => { console.log('Service Worker Registered'); });
 }
 
