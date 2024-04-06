@@ -12,6 +12,7 @@
   "name": "Cases",
   "short_name": "Cases",
   "start_url": "/apps/index.html",
+  "capture_links": "existing_client_event",
   "url_handlers" : [
     {
         "origin": "https://happy-birthday-b85a1c.netlify.app/"
