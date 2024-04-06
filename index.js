@@ -43,6 +43,17 @@ document.addEventListener('click', (event) => {
   }
 });
 
+if ("launchQueue" in window && "targetURL" in window.LaunchParams.prototype) {
+  window.launchQueue.setConsumer(launchParams => {
+    if (launchParams.targetURL) {
+      const url = new URL(launchParams.targetURL);
+      console.log(url);
+    }
+  });
+} else {
+  // document.querySelector(".not-supported").hidden = false;
+}
+
 // Register service worker to control making site work offline
 
 if ('serviceWorker' in navigator) {
