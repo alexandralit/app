@@ -12,6 +12,11 @@
   "name": "Cases",
   "short_name": "Cases",
   "start_url": "/apps/index.html",
+  {
+    "launch_handler": {
+      "client_mode": "navigate-new"
+    }
+  },
   "capture_links": "existing_client_event",
   "url_handlers" : [
     {
