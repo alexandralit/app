@@ -12,10 +12,8 @@
   "name": "Cases",
   "short_name": "Cases",
   "start_url": "./",
-  {
-    "launch_handler": {
-      "client_mode": "navigate-new"
-    }
+  "launch_handler": {
+    "client_mode": "navigate-new"
   },
   "capture_links": "existing_client_event",
   "url_handlers" : [
