@@ -15,10 +15,10 @@
   "capture_links": "existing_client_event",
   "url_handlers" : [
     {
-        "origin": "https://happy-birthday-b85a1c.netlify.app/"
+        "origin": "https://alexandralit.github.io/apps/"
     },
     {
-        "origin": "https://alexandralit.github.io/apps/"
+        "origin": "https://happy-birthday-b85a1c.netlify.app/"
     },
     {
         "origin": "http://37.17.226.17"
