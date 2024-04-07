@@ -18,7 +18,7 @@
   "protocol_handlers": [
       {
           "protocol": "web+apps",
-          "url": "/index.html"
+          "url": "/"
       }
   ],
   "capture_links": "existing_client_event",
