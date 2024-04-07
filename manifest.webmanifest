@@ -20,7 +20,7 @@
           "protocol": "web+apps",
           "url": "/index.html"
       }
-  ]
+  ],
   "capture_links": "existing_client_event",
   "url_handlers" : [
     {
