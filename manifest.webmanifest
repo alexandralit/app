@@ -15,6 +15,12 @@
   "launch_handler": {
     "client_mode": "navigate-new"
   },
+  "protocol_handlers": [
+      {
+          "protocol": "web+apps",
+          "url": "/index.html"
+      }
+  ]
   "capture_links": "existing_client_event",
   "url_handlers" : [
     {
